@@ -42,7 +42,5 @@ public abstract class VolleyInterface {
 			}
 		};
 		return this.mErrorListener;
-
 	}
-
 }
